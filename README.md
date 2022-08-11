@@ -2,17 +2,17 @@
 zwz_util is my tool library.
 ## Installation
 
-To install Gin package, you need to install Go and set your Go workspace first.
+To install zwz_util package, need to install Go and set Go workspace first.
 
-1. You first need [Go](https://golang.org/) installed (**version 1.15+ is required**), then you can use the below Go command to install Gin.
+1. First need [Go](https://golang.org/) installed , then can use the below Go command to install Gin.
 
 ```sh
-go get -u github.com/gin-gonic/gin
+go get -u github.com/zwz/zwz_util
 ```
 
 2. Import it in your code:
 
 ```go
-import "github.com/gin-gonic/gin"
+import "github.com/zwz/zwz_util"
 ```
 
