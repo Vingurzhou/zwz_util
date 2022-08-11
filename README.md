@@ -10,7 +10,7 @@ To install zwz_util package, need to install Go and set Go workspace first.
 go get -u github.com/zwz/zwz_util
 ```
 
-2. Import it in your code:
+2. Import it in code:
 
 ```go
 import "github.com/zwz/zwz_util"
